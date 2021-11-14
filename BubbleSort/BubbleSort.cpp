@@ -2,6 +2,7 @@
 
 int main()
 {
+	std::cout<<"Bubble sort"<<std::endl;
     const int arrayCount = 6;
     int arr[arrayCount] = {2, 1, 4, 3, 9, 5};
     
